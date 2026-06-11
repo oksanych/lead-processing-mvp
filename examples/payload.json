@@ -1,0 +1,14 @@
+{
+  "name": "Ірина Коваленко",
+  "phone": "+38 (067) 123-45-67",
+  "email": "iryna@example.com",
+  "company": "Kovalenko Beauty",
+  "message": "Хочу лендинг для салону краси. Бюджет приблизно 2000-3000$, потрібно запустити швидко.",
+  "budget": "2000-3000$",
+  "source": "landing-main",
+  "utm": {
+    "source": "facebook",
+    "medium": "cpc",
+    "campaign": "summer-offer"
+  }
+}

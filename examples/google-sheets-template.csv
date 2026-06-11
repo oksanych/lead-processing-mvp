@@ -1,0 +1,1 @@
+lead_id,received_at,name,phone_raw,phone_normalized,email,company,message,budget_raw,budget_min,budget_max,currency,source,utm_source,utm_medium,utm_campaign,ai_provider_used,ai_summary,lead_class,priority,need,next_step,ai_reason,raw_payload_json
